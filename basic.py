@@ -1,6 +1,6 @@
-
 # USC ID: Solhjouk
 # USC ID Number: 1424729265
+
 """
 CSCI-570 Final Project — Basic Sequence Alignment (Dynamic Programming)
 O(mn) time, O(mn) space
